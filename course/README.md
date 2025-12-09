@@ -65,7 +65,7 @@ Build a sustainable, profitable business.
 
 ## 🎁 Course Bonuses
 
-- [2,700 Faceless Video Ideas](./bonuses/video-ideas.md)
+- [2,700 Faceless Video Ideas](../video-ideas.md)
 - [Content Templates Library](./templates/)
 - [Affiliate Marketing Blueprint](./bonuses/affiliate-blueprint.md)
 - [YouTube Optimization Checklist](./bonuses/youtube-checklist.md)

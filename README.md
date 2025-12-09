@@ -7,7 +7,6 @@
 ![Modules](https://img.shields.io/badge/Modules-11-blue?style=for-the-badge)
 ![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
 ![Self Paced](https://img.shields.io/badge/Self-Paced-orange?style=for-the-badge)
-![Duration](https://img.shields.io/badge/Duration-4--6%20Weeks-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-All%20Social%20Media-purple?style=for-the-badge)
 
 <a href="https://syllaby.io/?via=chris56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
