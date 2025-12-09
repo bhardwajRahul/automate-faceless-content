@@ -2,6 +2,14 @@
 
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
+### 🏷️ Course Information
+
+![Modules](https://img.shields.io/badge/Modules-11-blue?style=for-the-badge)
+![Beginner Friendly](https://img.shields.io/badge/Beginner-Friendly-brightgreen?style=for-the-badge)
+![Self Paced](https://img.shields.io/badge/Self-Paced-orange?style=for-the-badge)
+![Duration](https://img.shields.io/badge/Duration-4--6%20Weeks-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-All%20Social%20Media-purple?style=for-the-badge)
+
 <a href="https://syllaby.io/?via=chris56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
@@ -292,6 +300,21 @@ This guide contains affiliate links. Using the provided link supports the mainte
 **Last Updated**: December 2024
 
 **Version**: 2.0 - Complete Multi-File Guide Structure
+
+---
+
+## 📚 More Repos to Follow
+
+**Check out these other amazing repositories by Chris Porter:**
+
+### 🚀 [Automate for Growth](https://github.com/cporter202/automate-for-growth)
+Complete guide to automating content for growth: Sora 2 video generation, brand authority automation, multi-platform posting, bulk content creation, and API integration.
+
+### 🤖 [AI Agent Tools](https://github.com/cporter202/ai-agent-tools)
+Comprehensive collection of AI agent tools and resources for automation and productivity.
+
+### 💻 [Lovable for Beginners](https://github.com/cporter202/lovable-for-beginners)
+Complete guide to building web applications with Lovable - perfect for beginners looking to create their first apps.
 
 ---
 
