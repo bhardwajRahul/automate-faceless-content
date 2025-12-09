@@ -2,7 +2,7 @@
 
 # 🎬 Complete Guide and Full Learning Course to Automating Faceless Video Content
 
-[![Faceless Video Content Guide](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2)](https://syllaby.io/?via=chris56)
+<a href="https://syllaby.io/?via=chris56"><img src="https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2" width="400" alt="Faceless Video Content Guide" /></a>
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
 
@@ -292,3 +292,17 @@ This guide contains affiliate links. Using the provided link supports the mainte
 **Last Updated**: December 2024
 
 **Version**: 2.0 - Complete Multi-File Guide Structure
+
+---
+
+<div align="center">
+
+## 👨‍💻 Follow the Creator
+
+**Follow [Chris Porter](https://www.facebook.com/chris.porter.7731) for daily GitHub repo posts!**
+
+[![Follow Chris Porter](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1764955188913-Screenshot%202025-12-05%20121938.png?alt=media&token=51573aeb-6618-4970-ab10-39e8099d0c23)](https://www.facebook.com/chris.porter.7731)
+
+**[👉 Follow on Facebook →](https://www.facebook.com/chris.porter.7731)**
+
+</div>
