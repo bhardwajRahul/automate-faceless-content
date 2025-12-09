@@ -1,30 +1,30 @@
-# Lesson 7: Scaling to $1,000+/Month
+# Lesson 7: Scaling Video Revenue
 
-**Duration**: 30 minutes  
-**Goal**: Scale all revenue streams to $1,000+/month
+**Duration**: 25 minutes  
+**Goal**: Scale your video revenue to $1,000+/month
 
 ---
 
 ## The Scaling Roadmap
 
-**Month 1-2**: Foundation ($150-500/month)
+**Month 1-3: Foundation** ($150-500/month)
 - AdSense: $100-300
 - Affiliates: $50-200
 - **Total**: $150-500
 
-**Month 3-4**: Expansion ($500-1,500/month)
+**Month 4-6: Growth** ($500-1,500/month)
 - AdSense: $200-500
 - Affiliates: $200-500
-- Digital Products: $100-500
-- **Total**: $500-1,500
+- YouTube Extras: $100-300
+- **Total**: $500-1,300
 
-**Month 5-6**: Scaling ($1,000-5,000+/month)
-- AdSense: $300-800
+**Month 7-12: Scaling** ($1,000-5,000+/month)
+- AdSense: $300-1,000
 - Affiliates: $500-1,500
-- Digital Products: $300-1,000
-- Brand Deals: $500-2,000
-- Micro SaaS: $500-2,000
-- **Total**: $2,100-7,300
+- YouTube Extras: $300-1,000
+- Sponsorships: $500-2,000
+- Multi-Platform: $200-1,000
+- **Total**: $1,800-6,500
 
 **This lesson shows you how to get there.**
 
@@ -34,17 +34,17 @@
 
 ### Stream 1: AdSense Scaling
 
-**Month 1-2**: $100-300/month
+**Month 1-3**: $100-300/month
 - Focus: Get monetized
 - Strategy: Consistent posting
 - Goal: Establish base income
 
-**Month 3-4**: $200-500/month
+**Month 4-6**: $200-500/month
 - Focus: Optimize for revenue
 - Strategy: Longer videos, better retention
 - Goal: Double AdSense income
 
-**Month 5-6**: $300-800/month
+**Month 7-12**: $300-1,000/month
 - Focus: High-CPM content
 - Strategy: Niche optimization, longer content
 - Goal: Maximize AdSense
@@ -61,17 +61,17 @@
 
 ### Stream 2: Affiliate Scaling
 
-**Month 1-2**: $50-200/month
+**Month 1-3**: $50-200/month
 - Focus: Get started
 - Strategy: Join programs, create first videos
 - Goal: Test and learn
 
-**Month 3-4**: $200-500/month
+**Month 4-6**: $200-500/month
 - Focus: Scale winners
 - Strategy: More affiliate content, optimize
 - Goal: Build affiliate income
 
-**Month 5-6**: $500-1,500/month
+**Month 7-12**: $500-1,500/month
 - Focus: High-converting products
 - Strategy: Comparison videos, reviews, optimization
 - Goal: Major income source
@@ -80,52 +80,50 @@
 - Create more affiliate content
 - Focus on high-commission products
 - Optimize conversions
-- Build email list for follow-up
+- Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56) for fast creation
 
-**Pro Tip**: Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56) for fast affiliate content.
+**Pro Tip**: URL to Video = fastest affiliate content creation.
 
 ---
 
-### Stream 3: Digital Products Scaling
+### Stream 3: YouTube Extras Scaling
 
-**Month 1-2**: $0/month
-- Focus: Create first product
-- Strategy: Start simple (ebook/templates)
-- Goal: Launch first product
+**Month 1-3**: $0/month
+- Focus: Get monetized first
+- Strategy: Build audience
+- Goal: Qualify for features
 
-**Month 3-4**: $100-500/month
-- Focus: Promote and sell
-- Strategy: Video promotion, email marketing
-- Goal: Establish product income
+**Month 4-6**: $100-300/month
+- Focus: Enable features
+- Strategy: Memberships, Supers, Shopping
+- Goal: Additional revenue
 
-**Month 5-6**: $300-1,000/month
-- Focus: Scale products
-- Strategy: More products, better promotion
-- Goal: Significant product income
+**Month 7-12**: $300-1,000/month
+- Focus: Optimize features
+- Strategy: Promote, create value, optimize
+- Goal: Significant extra income
 
 **How to Scale**:
-- Create more products
-- Bundle products
-- Build email list
-- Promote consistently
-
-**Pro Tip**: Repurpose your content into products using [Syllaby.io](https://syllaby.io/?via=chris56).
+- Enable all features
+- Create value for members
+- Promote features
+- Optimize based on data
 
 ---
 
-### Stream 4: Brand Deals Scaling
+### Stream 4: Sponsorships Scaling
 
-**Month 1-2**: $0/month
+**Month 1-3**: $0/month
 - Focus: Build audience
 - Strategy: Grow subscribers, engagement
 - Goal: Reach 5,000-10,000 subscribers
 
-**Month 3-4**: $0-500/month
+**Month 4-6**: $0-500/month
 - Focus: First deals
 - Strategy: Join marketplaces, pitch brands
 - Goal: Land first brand deal
 
-**Month 5-6**: $500-2,000/month
+**Month 7-12**: $500-2,000/month
 - Focus: Scale deals
 - Strategy: Long-term partnerships, better rates
 - Goal: Regular brand income
@@ -135,80 +133,7 @@
 - Create media kit
 - Join marketplaces
 - Build relationships
-
-**Pro Tip**: Focus on engagement - it's worth more than just subscribers.
-
----
-
-### Stream 5: Micro SaaS Scaling
-
-**Month 1-2**: $0/month
-- Focus: Build product
-- Strategy: Identify problem, build solution
-- Goal: Launch product
-
-**Month 3-4**: $100-500/month
-- Focus: Get first subscribers
-- Strategy: Promote from channels
-- Goal: 20-100 subscribers
-
-**Month 5-6**: $500-2,000/month
-- Focus: Scale subscribers
-- Strategy: Multi-channel promotion, optimization
-- Goal: 100-400 subscribers
-
-**How to Scale**:
-- Promote from all channels
-- Build email list
-- Create content about it
-- Optimize conversion
-
-**Pro Tip**: Link from multiple channels for faster subscriber growth.
-
----
-
-## The Complete Revenue Stack
-
-### Month 1-2: Foundation
-
-**Revenue Streams**:
-- AdSense: $100-300
-- Affiliates: $50-200
-- **Total**: $150-500/month
-
-**Focus**: Get monetized, test affiliates
-
-**Action**: Consistent posting, join affiliate programs
-
----
-
-### Month 3-4: Expansion
-
-**Revenue Streams**:
-- AdSense: $200-500
-- Affiliates: $200-500
-- Digital Products: $100-500
-- **Total**: $500-1,500/month
-
-**Focus**: Add products, optimize affiliates
-
-**Action**: Launch products, scale affiliates
-
----
-
-### Month 5-6: Scaling
-
-**Revenue Streams**:
-- AdSense: $300-800
-- Affiliates: $500-1,500
-- Digital Products: $300-1,000
-- Brand Deals: $500-2,000
-- Micro SaaS: $500-2,000
-- **Total**: $2,100-7,300/month
-
-**Focus**: All streams active, optimize all
-
-**Action**: Scale everything, optimize performance
+- Use [Syllaby.io](https://syllaby.io/?via=chris56) for sponsored content
 
 ---
 
@@ -222,32 +147,27 @@
 - Scale production
 - Use Bulk Scheduler
 
-**Implementation**:
-- 10 videos/day vs. 1 video/day
+**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+- Create 300 videos/month
+- Automatic publishing
 - 10x more content
 - 5-10x more revenue potential
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
-- Bulk Scheduler for volume
-- Consistent quality
-- Automated publishing
-- Scalable system
-
 ---
 
-### Strategy 2: Multi-Channel
+### Strategy 2: Multi-Platform
 
 **How It Works**:
-- More channels = more revenue
-- Cross-promote
-- Diversify
+- Post to all platforms
+- Different revenue streams
+- Diversify income
 - Scale faster
 
-**Implementation**:
-- 5 channels vs. 1 channel
-- 5x more content
-- Combined revenue
-- Faster growth
+**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+- One-click publishing
+- All platforms
+- Maximum reach
+- Maximum revenue
 
 ---
 
@@ -277,7 +197,7 @@
 - Immediate income
 - Foundation for others
 
-**Then**: Add products and other streams.
+**Then**: Add YouTube extras and sponsorships.
 
 ---
 
@@ -293,13 +213,13 @@
 
 ---
 
-### 3. Automate Everything
+### 3. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
 
-**How**:
-- Use Bulk Scheduler
-- Automated publishing
-- Systems and processes
-- Minimal manual work
+**Benefits**:
+- Consistent quality
+- Fast creation
+- Easy management
+- Scalable system
 
 **Result**: Scale without proportional time increase.
 
@@ -325,9 +245,9 @@
 - [ ] Identify top performers
 - [ ] Scale AdSense (longer videos, better retention)
 - [ ] Scale affiliates (more content, optimize)
-- [ ] Launch digital products
-- [ ] Build audience for brand deals
-- [ ] Launch Micro SaaS
+- [ ] Enable YouTube extras
+- [ ] Build audience for sponsorships
+- [ ] Post to all platforms using [Syllaby.io](https://syllaby.io/?via=chris56)
 - [ ] Optimize all streams
 - [ ] Set $1,000/month goal
 - [ ] Track progress monthly
@@ -338,11 +258,11 @@
 
 ## Key Takeaways
 
-1. **Revenue stack** = multiple streams = $1,000+/month
+1. **Video revenue stack** = multiple streams = $1,000+/month
 2. **Start with AdSense + Affiliates** = foundation
-3. **Add products gradually** = build over time
+3. **Add YouTube extras** = additional revenue
 4. **Scale what works** = double down on winners
-5. **Automate** = scale without time increase
+5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy scaling
 6. **Track everything** = optimize performance
 
 ---
@@ -352,13 +272,13 @@
 **Congratulations!** You've completed Module 5: Revenue Streams & Monetization.
 
 **What You've Learned**:
-- ✅ The revenue stack (5 income streams)
+- ✅ Video revenue streams overview
 - ✅ YouTube AdSense optimization
-- ✅ Affiliate marketing mastery
-- ✅ Digital products creation
-- ✅ Brand deals and sponsorships
-- ✅ Micro SaaS products
-- ✅ Scaling to $1,000+/month
+- ✅ Affiliate marketing through videos
+- ✅ YouTube additional revenue features
+- ✅ Video sponsorships and brand deals
+- ✅ Multi-platform monetization
+- ✅ Scaling video revenue to $1,000+/month
 
 **You're Ready For**:
 - **[Module 6: Growth & Scaling Strategies →](./../module-6/)**
@@ -367,7 +287,7 @@
 
 ## Resources
 
-- [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Complete guide
+- [Complete Monetization Guide](../../../guides/monetization/complete-guide.md) - Complete guide
 - [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content for all revenue streams
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Detailed strategy
 
@@ -377,5 +297,4 @@
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the content that drives all your revenue streams!*
-
+*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the video content that drives all your revenue streams!*

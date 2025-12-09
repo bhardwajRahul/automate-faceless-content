@@ -1,7 +1,7 @@
-# Lesson 3: Affiliate Marketing Mastery
+# Lesson 3: Affiliate Marketing Through Videos
 
 **Duration**: 30 minutes  
-**Goal**: Build profitable affiliate marketing income stream
+**Goal**: Use your faceless videos to promote products and earn affiliate commissions
 
 ---
 
@@ -98,37 +98,41 @@
 
 ---
 
-## Creating Affiliate Content
+## Creating Affiliate Video Content
 
-### Content Types That Convert
+### Video Types That Convert
 
-**1. Product Reviews**:
-- Honest reviews
+**1. Product Review Videos**:
+- Honest video reviews
+- Show product in action
 - Pros and cons
 - Use cases
 - Recommendations
 
 **2. Comparison Videos**:
 - Product A vs. Product B
-- Detailed comparison
+- Video comparison
+- Detailed analysis
 - Clear winner
 - Affiliate links to both
 
 **3. Tutorial Videos**:
 - How to use product
+- Video demonstration
 - Show value
 - Include affiliate link
 - Drive conversions
 
-**4. "Best Of" Lists**:
+**4. "Best Of" Video Lists**:
 - Top 5/10 products
+- Video format
 - Each with affiliate link
 - Detailed explanations
 - Clear recommendations
 
-**5. Case Studies**:
+**5. Case Study Videos**:
 - How you used product
-- Results achieved
+- Video results
 - Honest experience
 - Affiliate link
 
@@ -138,44 +142,45 @@
 
 **Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
 
-**Method 1: URL to Video**:
+**Method 1: URL to Video** (Fastest):
 1. Paste product URL
-2. Generate script from URL
+2. Generate script from URL automatically
+3. Create video with scraped images
+4. Add affiliate link in description
+5. Publish to all platforms
+
+**Method 2: AI Script Assistant**:
+1. Enter: "Review of [Product]" or "Best [Product Type]"
+2. AI generates review script
 3. Create video
 4. Add affiliate link in description
 5. Publish
 
-**Method 2: Custom Script**:
-1. Write review script
-2. Create video
+**Method 3: Custom Script**:
+1. Write your own review script
+2. Create video with [Syllaby.io](https://syllaby.io/?via=chris56)
 3. Add affiliate link
 4. Publish
 
-**Method 3: AI Script Assistant**:
-1. Enter: "Review of [Product]"
-2. Generate script
-3. Create video
-4. Add affiliate link
-5. Publish
-
-**Pro Tip**: Use URL to Video for fastest affiliate content creation.
+**Pro Tip**: URL to Video is fastest - paste product URL, get complete video automatically.
 
 ---
 
-## Affiliate Link Placement
+## Affiliate Link Placement in Videos
 
 ### Where to Place Links
 
-**1. Video Description**:
-- Primary placement
+**1. Video Description** (Primary):
+- Add affiliate link in description
 - Clear call-to-action
+- "Check link in description"
 - Trackable
 - Easy to update
 
-**2. Video Itself**:
-- Mention in video
-- "Link in description"
-- Verbal CTA
+**2. Mention in Video**:
+- Verbal mention: "Link in description"
+- Natural integration
+- Multiple mentions
 - Drive clicks
 
 **3. Pinned Comment**:
@@ -184,13 +189,13 @@
 - Easy to click
 - Trackable
 
-**4. End Screen**:
+**4. End Screen** (YouTube):
 - Link to product page
 - Visual CTA
 - High conversion
 - Professional
 
-**Pro Tip**: Use all placements for maximum conversions.
+**Pro Tip**: Use all placements for maximum conversions. Mention link multiple times in video.
 
 ---
 
@@ -332,18 +337,19 @@
 
 ## Action Items
 
-**Launch affiliate marketing**:
+**Launch affiliate marketing through videos**:
 
 - [ ] Join 5 affiliate programs
 - [ ] Get affiliate links
-- [ ] Create first affiliate video using [Syllaby.io](https://syllaby.io/?via=chris56)
-- [ ] Add links to descriptions
+- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+- [ ] Add affiliate links to video descriptions
+- [ ] Mention links in videos
 - [ ] Create comparison video
 - [ ] Set up tracking
 - [ ] Monitor conversions
 - [ ] Optimize based on data
 
-**Time Required**: 3-5 hours initial setup
+**Time Required**: 2-3 hours initial setup
 
 ---
 

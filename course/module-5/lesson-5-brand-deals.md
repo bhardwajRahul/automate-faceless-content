@@ -1,11 +1,11 @@
-# Lesson 5: Brand Deals & Sponsorships
+# Lesson 5: Video Sponsorships & Brand Deals
 
 **Duration**: 25 minutes  
-**Goal**: Land brand deals and sponsorships for premium income
+**Goal**: Land video sponsorships and brand deals for premium income
 
 ---
 
-## Why Brand Deals Matter
+## Why Video Sponsorships Matter
 
 **The Opportunity**:
 - Highest per-deal revenue
@@ -19,22 +19,21 @@
 - Recurring opportunities
 - Can be main income source
 
-**Brand deals can become your highest-paying revenue stream.**
+**Video sponsorships can become your highest-paying revenue stream.**
 
 ---
 
-## Understanding Brand Deals
+## Understanding Video Sponsorships
 
 ### What They Are
 
-**Definition**: Brands pay you to promote their products/services
+**Definition**: Brands pay you to promote their products/services in your videos
 
 **Types**:
-- Sponsored videos
-- Product placements
-- Brand mentions
-- Affiliate partnerships
-- Long-term collaborations
+- Sponsored videos (full video promotion)
+- Product placements (natural integration)
+- Brand mentions (brief mentions)
+- Long-term collaborations (multiple videos)
 
 **Why Brands Pay**:
 - Reach your audience
@@ -47,9 +46,9 @@
 ### Earning Potential
 
 **By Subscriber Count**:
-- 1,000 subscribers: $100-500 per deal
-- 10,000 subscribers: $1,000-5,000 per deal
-- 100,000 subscribers: $10,000-50,000 per deal
+- 1,000 subscribers: $100-500 per video
+- 10,000 subscribers: $1,000-5,000 per video
+- 100,000 subscribers: $10,000-50,000 per video
 
 **By Engagement**:
 - High engagement = higher rates
@@ -66,7 +65,7 @@
 
 ---
 
-## How to Get Brand Deals
+## How to Get Video Sponsorships
 
 ### Method 1: Brands Reach Out
 
@@ -126,114 +125,7 @@
 
 ---
 
-## Creating a Media Kit
-
-### What Is a Media Kit?
-
-**Definition**: Professional document showcasing your channel
-
-**Purpose**: Impress brands and land deals
-
-**What to Include**:
-- Channel statistics
-- Audience demographics
-- Engagement metrics
-- Content examples
-- Collaboration ideas
-- Pricing
-- Contact information
-
----
-
-### Media Kit Sections
-
-**1. Channel Overview**:
-- Subscriber count
-- Total views
-- Average views per video
-- Engagement rate
-- Growth rate
-
-**2. Audience Demographics**:
-- Age range
-- Gender split
-- Geographic location
-- Interests
-- Income level (if known)
-
-**3. Content Examples**:
-- Top performing videos
-- Sponsored content examples
-- Content quality
-- Brand fit
-
-**4. Engagement Metrics**:
-- Average views
-- Engagement rate
-- Comments per video
-- Shares per video
-- Retention rate
-
-**5. Collaboration Ideas**:
-- Sponsored video ideas
-- Product review concepts
-- Integration ideas
-- Long-term partnerships
-
-**6. Pricing**:
-- Sponsored video rates
-- Product placement rates
-- Long-term partnership rates
-- Package deals
-
-**7. Testimonials**:
-- Previous brand feedback
-- Case studies
-- Results achieved
-- Social proof
-
----
-
-## Negotiating Deals
-
-### Pricing Strategy
-
-**Base Rate**: $100 per 1,000 subscribers
-
-**Factors That Increase Rate**:
-- High engagement (2x-3x)
-- Valuable niche (1.5x-2x)
-- Long-term partnership (discount but recurring)
-- Exclusive content (premium)
-- Multiple platforms (1.5x-2x)
-
-**Example**:
-- 10,000 subscribers
-- Base: $1,000
-- High engagement: $2,000-3,000
-- Valuable niche: $1,500-2,000
-- Multiple factors: $3,000-5,000
-
-**Pro Tip**: Start higher in negotiations - you can always come down.
-
----
-
-### Deal Terms
-
-**What to Negotiate**:
-- Payment amount
-- Payment terms (50% upfront?)
-- Content requirements
-- Approval process
-- Usage rights
-- Exclusivity
-- Timeline
-
-**Pro Tip**: Get 50% upfront - protects you.
-
----
-
-## Creating Sponsored Content
+## Creating Sponsored Video Content
 
 ### Best Practices
 
@@ -261,11 +153,39 @@
 - Fits your content
 - Better performance
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create professional sponsored content.
+**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create professional sponsored video content.
 
 ---
 
-## Long-Term Partnerships
+## Using Syllaby.io for Sponsored Content
+
+### URL to Video Method
+
+**Perfect for Product Promotion**:
+1. Paste product URL
+2. Generate script from URL
+3. Create video
+4. Add affiliate link
+5. Publish
+
+**Result**: Fast sponsored content creation.
+
+---
+
+### Custom Script Method
+
+**For Specific Messaging**:
+1. Write sponsored script
+2. Create video with [Syllaby.io](https://syllaby.io/?via=chris56)
+3. Professional quality
+4. Consistent with brand
+5. Publish
+
+**Result**: Professional sponsored videos.
+
+---
+
+## Long-Term Video Partnerships
 
 ### Why They're Valuable
 
@@ -317,7 +237,7 @@
 
 ---
 
-### 3. Create Media Kit Early
+### 3. Create Media Kit
 
 **Why**:
 - Ready when opportunities come
@@ -329,26 +249,26 @@
 
 ---
 
-### 4. Network
+### 4. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All Sponsored Content
 
-**How**:
-- Connect with other creators
-- Join communities
-- Attend events
-- Build relationships
+**Benefits**:
+- Professional quality
+- Consistent branding
+- Fast creation
+- Easy to manage
 
-**Result**: More opportunities.
+**Result**: Better sponsored content.
 
 ---
 
 ## Action Items
 
-**Land your first brand deal**:
+**Land your first video sponsorship**:
 
+- [ ] Build audience (5,000-10,000+ subscribers)
 - [ ] Create media kit
 - [ ] Join creator marketplaces
 - [ ] Identify 10 brands in your niche
-- [ ] Research contact information
 - [ ] Create pitch template
 - [ ] Send 5 pitches
 - [ ] Follow up
@@ -360,10 +280,10 @@
 
 ## Key Takeaways
 
-1. **Brand deals** = highest per-deal revenue
+1. **Video sponsorships** = highest per-deal revenue
 2. **Build audience first** = deals will come
-3. **Media kit** = professional presentation
-4. **Engagement matters** = higher rates
+3. **Engagement matters** = higher rates
+4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = professional sponsored content
 5. **Long-term partnerships** = stable income
 6. **Be authentic** = builds trust and credibility
 
@@ -371,7 +291,7 @@
 
 ## Next Lesson
 
-**[Lesson 6: Micro SaaS Products →](./lesson-6-micro-saas.md)**
+**[Lesson 6: Multi-Platform Monetization →](./lesson-6-multi-platform.md)**
 
 ---
 
@@ -383,9 +303,8 @@
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-6-micro-saas.md)
+**Ready to continue?** [Next Lesson →](./lesson-6-multi-platform.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create professional sponsored content that brands love!*
-
+*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create professional sponsored video content!*

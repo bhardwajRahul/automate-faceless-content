@@ -88,7 +88,7 @@ Proven strategies from top creators
 - [Content Strategies](./guides/strategies/content-strategies.md)
 - [Growth Strategies](./guides/strategies/growth-strategies.md)
 - [Multi-Platform Domination](./guides/strategies/multi-platform.md)
-- [Content Repurposing System](./guides/strategies/content-repurposing.md)
+- [Content Repurposing System](./guides/workflows/content-repurposing.md)
 - [Community Building](./guides/strategies/community-building.md)
 
 ### 💎 Top Paying Niches

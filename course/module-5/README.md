@@ -1,39 +1,39 @@
 # Module 5: Revenue Streams & Monetization
 
-**Duration**: 2.5 hours  
-**Goal**: Build multiple income streams generating $1,000+/month
+**Duration**: 2 hours  
+**Goal**: Monetize your faceless video content across all platforms
 
 ---
 
 ## Module Overview
 
-Getting monetized is just the beginning. In this module, you'll learn how to build multiple revenue streams and scale to $1,000+/month in passive income.
+Once you're creating content, it's time to monetize. This module focuses specifically on revenue streams from your faceless video content - how to turn views into income.
 
-**This is where your business becomes profitable.**
+**This is where your videos start generating revenue.**
 
 ---
 
 ## Lessons
 
-1. [The Revenue Stack (5 Income Streams)](./lesson-1-revenue-stack.md)
+1. [Video Revenue Streams Overview](./lesson-1-revenue-stack.md)
 2. [YouTube AdSense Optimization](./lesson-2-adsense.md)
-3. [Affiliate Marketing Mastery](./lesson-3-affiliate.md)
-4. [Digital Products (Courses, Ebooks, Templates)](./lesson-4-digital-products.md)
-5. [Brand Deals & Sponsorships](./lesson-5-brand-deals.md)
-6. [Micro SaaS Products](./lesson-6-micro-saas.md)
-7. [Scaling to $1,000+/Month](./lesson-7-scaling.md)
+3. [Affiliate Marketing Through Videos](./lesson-3-affiliate.md)
+4. [Video Sponsorships & Brand Deals](./lesson-5-brand-deals.md)
+5. [YouTube Additional Revenue (Memberships, Supers, Shopping)](./lesson-4-youtube-extras.md)
+6. [Multi-Platform Monetization](./lesson-6-multi-platform.md)
+7. [Scaling Video Revenue](./lesson-7-scaling.md)
 
 ---
 
 ## Action Items
 
 By the end of this module, you will have:
-- [ ] Set up all 5 revenue streams
-- [ ] Optimized AdSense earnings
-- [ ] Launched affiliate marketing
-- [ ] Created first digital product
-- [ ] Set up brand deal process
-- [ ] Planned scaling strategy
+- [ ] Optimized AdSense earnings from videos
+- [ ] Set up affiliate marketing in videos
+- [ ] Enabled YouTube additional revenue features
+- [ ] Set up video sponsorships
+- [ ] Monetized across all platforms
+- [ ] Planned revenue scaling strategy
 
 ---
 
