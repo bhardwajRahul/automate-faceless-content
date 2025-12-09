@@ -1,3 +1,7 @@
+<div align="center">
+
+[![Faceless Video Content Guide](https://firebasestorage.googleapis.com/v0/b/facesift.firebasestorage.app/o/user_uploads%2F83EXwNWgaKe1BHmyd9ISw3HCEfi2%2F1765241465730-Screenshot%202025-12-08%20195046.png?alt=media&token=ad72ea81-d19b-4712-bafb-cad00124e9d2)](https://syllaby.io/?via=chris56)
+
 # 🎬 Complete Guide to Automating Faceless Video Content
 
 **The Ultimate Resource for Dominating Social Media with AI-Powered Faceless Videos**
@@ -5,6 +9,8 @@
 Learn how to automate faceless short-form + long-form video content and dominate YouTube, TikTok, Facebook & Instagram on autopilot — from idea → script → video → scheduled posts.
 
 **Save 70% of your content creation time** while building a scalable content empire.
+
+</div>
 
 ---
 
@@ -34,6 +40,19 @@ Learn how to automate faceless short-form + long-form video content and dominate
 **[👉 Start The Faceless Video Mastery Course →](./course/README.md)**
 
 **10 Modules | 4-6 Weeks | From Zero to Profitable**
+
+**Jump to any module:**
+- [Module 0: Welcome & Introduction](./course/module-0/README.md)
+- [Module 1: Foundations of Faceless Video](./course/module-1/README.md)
+- [Module 2: Mastering Syllaby.io Features](./course/module-2/README.md)
+- [Module 3: Content Creation Strategies](./course/module-3/README.md)
+- [Module 4: Getting Monetized Fast](./course/module-4/README.md)
+- [Module 5: Advanced Revenue Streams](./course/module-5/README.md)
+- [Module 6: Growth & Optimization](./course/module-6/README.md)
+- [Module 7: Scaling Your Business](./course/module-7/README.md)
+- [Module 8: Platform Domination](./course/module-8/README.md)
+- [Module 9: Troubleshooting & Advanced Tips](./course/module-9/README.md)
+- [Module 10: Building Your Empire](./course/module-10/README.md)
 
 ### 📚 **Option 2: Self-Guided Learning**
 **Best for**: Those who prefer to learn at their own pace
